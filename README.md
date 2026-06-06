@@ -58,7 +58,8 @@ My notes, practice labs, and cybersecurity learning journey.
 
 ### Portfolio Website
 Personal portfolio showcasing my skills, projects, and achievements.
-## mini splunk 
+
+## Mini Splunk 
 A dashboard which records the logs of the website.
 
 ## 📈 GitHub Stats
