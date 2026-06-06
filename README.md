@@ -23,7 +23,7 @@ I am passionate about cybersecurity, ethical hacking, penetration testing, and w
 - Python
 - PHP
 - JavaScript
-- C
+- sql
 
 ### Web Technologies
 - HTML5
